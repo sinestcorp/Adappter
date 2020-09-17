@@ -1,3 +1,5 @@
+# Reliable Contents Activity Reward Platform with Blockchain
+
 # Problem:
 First, due to centralization, users are not compensated for their contribution. Second, even if the user's personal information is used without consent, it is unknown. Third, it is difficult for small and medium-sized developers to succeed due to structure problems in global industry. Individuals are rewarded for their contributions, privacy is reliable, and small and medium-sized developers find a key for success within the adapter platform. 
 
